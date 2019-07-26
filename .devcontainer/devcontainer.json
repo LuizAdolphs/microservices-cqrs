@@ -2,7 +2,7 @@
 	"name": ".NET Core Microservices + CQRS",
 	"dockerFile": "Dockerfile",
 	"appPort": 5000,
-	"extensions": [11
+	"extensions": [
 		"ms-vscode.csharp"
 	]
 }
